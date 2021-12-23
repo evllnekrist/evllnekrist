@@ -2,7 +2,7 @@
 - 👀 I’m interested in both frontend & backend dev
 - 🌱 I’m currently learning IT Management, while still keep exporing software (& the lifecycle) development 
 - 💞️ I’m looking to collaborate on everything related 
-- 📫 How to reach me ev.wiseline@gmail.com
+- 📫 How to reach me ev.attoff@gmail.com
 
 <!---
 evllnekrist/evllnekrist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
